@@ -9,15 +9,15 @@ Compact display of my portfolio through React.js
 ## New and improved Portfolio
 
 Below is my New and Improved Portfolio. This time it is being ran through react.js
-![New Portfolio](./assets/images/My_new_port.png)
+![New Portfolio](./src/images/My_new_port.png)
 
 Live Preview
-![New Portfolio Gif](./assets/images/Port_gif.gif)
+![New Portfolio Gif](./src/images/Port_gif.gif)
 
 ## Old Portfolio
 
 My Portfolio includes a navbar where the visitor can navigate through the first webpage as well as go directly to my linked in. If the said visitor would like to contact me they may by going to the "Contact" tab, which then redirects them to a form where they then submit some feedback or comments.
-![Old Portfolio](./assets/images/my_portfolio_preview.png)
+![Old Portfolio](./src/images/my_portfolio_preview.png)
 
 ## Link to Application
 
